@@ -1,0 +1,6 @@
+D:\Code\openSSL\openSSL\bin\Debug\openSSL.exe.config
+D:\Code\openSSL\openSSL\bin\Debug\openSSL.exe
+D:\Code\openSSL\openSSL\bin\Debug\openSSL.pdb
+D:\Code\openSSL\openSSL\obj\Debug\openSSL.csprojAssemblyReference.cache
+D:\Code\openSSL\openSSL\obj\Debug\openSSL.exe
+D:\Code\openSSL\openSSL\obj\Debug\openSSL.pdb
